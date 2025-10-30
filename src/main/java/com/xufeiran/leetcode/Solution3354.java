@@ -1,3 +1,5 @@
+package com.xufeiran.leetcode;
+
 class Solution3354 {
     public int countValidSelections(int[] nums) {
         int i = 0, sum = 0;
